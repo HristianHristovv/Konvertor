@@ -1,0 +1,13 @@
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.exe
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.deps.json
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.runtimeconfig.json
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.runtimeconfig.dev.json
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.dll
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\bin\Debug\netcoreapp3.1\Konvertor.pdb
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.csprojAssemblyReference.cache
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.AssemblyInfoInputs.cache
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.AssemblyInfo.cs
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.csproj.CoreCompileInputs.cache
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.dll
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.pdb
+C:\Users\Hristian\source\repos\Konvertor\Konvertor\obj\Debug\netcoreapp3.1\Konvertor.genruntimeconfig.cache
